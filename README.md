@@ -5,7 +5,7 @@
 
 - 🔭 Currently working on **online food delivery app**
 
-- 🌱 Currently learning **Pyhton,Flask, REST API, JQuery, Django, REACT, MySQL, SQLAlchemy**
+- 🌱 Currently learning **Python,Flask, REST API, JQuery, Django, REACT, MySQL, SQLAlchemy, Puppet**
 
 - 👯 Looking to collaborate on **any projects**
 
