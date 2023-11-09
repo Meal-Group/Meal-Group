@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meal-group" alt="meal-group" /></a> </p>
 
-- 🔭 I’m currently working on **online food delivery app**
+- 🔭 Currently working on **online food delivery app**
 
-- 🌱 I’m currently learning **Pyhton,Flask, REST API, JQuery, Django, REACT, MySQL, SQLAlchemy**
+- 🌱 Currently learning **Pyhton,Flask, REST API, JQuery, Django, REACT, MySQL, SQLAlchemy**
 
-- 👯 I’m looking to collaborate on **any projects**
+- 👯 Looking to collaborate on **any projects**
 
-- 📝 I regularly write articles on [Medium Daily Digest](Medium Daily Digest)
+- 📝 Regularly write articles on [Medium Daily Digest](Medium Daily Digest)
 
 - 💬 Ask me about **Anything about Technology**
 
